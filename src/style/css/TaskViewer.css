@@ -1,0 +1,30 @@
+.TaskViewer{
+    
+    width: 600px;
+    height: 300px;
+    background: #1d8ccc;
+    margin: 100px auto;
+
+}
+
+.viewer-header{
+    display: inline-flex;
+    width: 100%;
+    /* height: 75px;
+    text-align: middle; */
+}
+
+.header-text{
+    float: left;
+    width: 20%; 
+    margin: 0 auto;
+    text-align: middle;
+}
+
+.header-lt{
+    width: 40%;
+}
+
+.header-rt{
+    width: 40%;
+}
